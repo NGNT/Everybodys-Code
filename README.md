@@ -6,6 +6,12 @@ A beginner-friendly tool for creating mods in the game **Teardown**. No coding e
 
 This is a simple visual editor that helps you create Lua scripts for Teardown mods without needing to learn programming. Just click buttons to add code!
 
+## What it looks like
+
+![Teardown Code Editor Interface](https://cdn.nostrcheck.me/46025249f65d47dddb0f17d93eb8b0a32d97fe3189c6684bbd33136a0a7e0424/ec0783bd9c949779961d682c45d5178f206b39ee78ce7ca8cc1e07d1b7def190.webp)
+
+![Code Editor in Action](https://cdn.nostrcheck.me/46025249f65d47dddb0f17d93eb8b0a32d97fe3189c6684bbd33136a0a7e0424/a1a0e98d2413f73532ac95ddcd377dab47354bd4e6f8d51ac5a7e97f81d8905c.webp)
+
 ## Features
 
 - **🎯 Beginner-Friendly**: Click buttons to add code instead of typing it
